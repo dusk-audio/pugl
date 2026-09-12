@@ -1,3 +1,8 @@
+> **Archived: development has moved to [dusk-audio/DAF](https://github.com/dusk-audio/DAF).**
+> pugl is now vendored at [`dgl/src/pugl-upstream/`](https://github.com/dusk-audio/DAF/tree/main/dgl/src/pugl-upstream).
+> This repository is retained for its history. Use a single DAF checkout and
+> [report issues in DAF](https://github.com/dusk-audio/DAF/issues).
+
 Pugl
 ====
 
